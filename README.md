@@ -18,3 +18,9 @@
 > `normal nat`: 表示为普通NAT（非对称NAT）
 >
 > `symmetric nat`：表示对称型NAT
+### 引用详情
+> https://webrtchacks.com/symmetric-nat/
+>
+> https://jsfiddle.net/5ftsd5c2/17/
+>
+> https://github.com/fippo/sdp
