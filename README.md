@@ -1,6 +1,8 @@
 # NAT-Type
-![Eclipse Marketplace](https://img.shields.io/badge/license-CPL--V3-green)
-##关于延迟的说明
+# 一款基于JS和stun检测NAT浏览器小工具
+![Eclipse Marketplace](https://img.shields.io/badge/license-CPL--V3-green?style=flat-square) ![kserks](https://img.shields.io/badge/kserks-NAT-blue?style=flat-square)
+
+## 关于延迟的说明
 本次检测节点是国内可以访问的stun节点，但是由于报文过长，反馈结果会有一定的延迟。
 如果想立即出现结果，请使`test2.js`文件进行测试。
 ### 说明
