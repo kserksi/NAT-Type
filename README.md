@@ -20,9 +20,6 @@
 > 
 ### 结果查看
 浏览器运行后会输出结果。
-> `normal nat`: 表示为普通NAT（非对称NAT）
->
-> `symmetric nat`：表示对称型NAT
 ### 引用详情
 > https://webrtchacks.com/symmetric-nat/
 >
