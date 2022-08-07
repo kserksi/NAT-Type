@@ -50,7 +50,7 @@ pc.onicecandidate = function(e) {
   } else if (!e.candidate) {
     if (Object.keys(candidates).length === 1) {
       var ports = candidates[Object.keys(candidates)[0]];
-      console.log(ports.length === 1 ? '非对称NTA' : '对称NTA');
+      console.log(ports.length === 1 ? '非对称NAT' : '对称NAT');
     }
   }
 };
